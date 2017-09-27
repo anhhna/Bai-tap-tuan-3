@@ -1,5 +1,5 @@
 # Bai-tap-tuan-3
-Bài tập tuần 3, lớp SE346 - Lập trình ứng dụng di động
+Homework Week 3, class SE346 - Mobile Programming
 
 ## Author
 Name: Nguyen Minh Hieu
